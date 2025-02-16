@@ -1,4 +1,4 @@
 # Dictionary
-Input: Engineering Terms and It's Definition 
-Process: Creating list to store the engineering terms
-Output: 30 words dictionary
+Process: Creating list to store the engineering terms 
+
+https://youtu.be/7ZQHniSN6Cw?si=tv8KtN4azX6B2zrV
